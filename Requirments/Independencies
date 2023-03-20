@@ -1,0 +1,5 @@
+NPM : Node Package Manager (Install by running 'pip install npm' )
+install nodeJs
+run nodemon tools (npm devStart nodemon)
+install socket.io
+debug nodemon server.js 
